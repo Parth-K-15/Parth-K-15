@@ -105,14 +105,11 @@ I enjoy building **real, production-level platforms** more than tutorials—and 
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth-K-15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-K-15&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth-K-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-</div>
-
-<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth-K-15&theme=tokyonight&hide_border=true)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-K-15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-K-15&theme=tokyonight&hide_border=true&layout=compact)
   
 </div>
 
@@ -122,7 +119,7 @@ I enjoy building **real, production-level platforms** more than tutorials—and 
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=Parth-K-15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Parth-K-15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
   
 </div>
 
@@ -132,7 +129,7 @@ I enjoy building **real, production-level platforms** more than tutorials—and 
 
 <div align="center">
   
-  [![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-K-15&theme=tokyo-night&hide_border=true)](https://github.com/Parth-K-15)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-K-15&theme=tokyo-night&hide_border=true)
   
 </div>
 
@@ -200,8 +197,8 @@ const currentGoals = {
 
 <div align="center">
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=Parth-K-15&repo=MBBSRoutes&theme=tokyonight&hide_border=false)](https://github.com/Parth-K-15/MBBSRoutes)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=Parth-K-15&repo=ARTIMAS-26&theme=tokyonight&hide_border=false)](https://github.com/Parth-K-15/ARTIMAS-26)
+  [![MBBSRoutes](https://img.shields.io/badge/MBBSRoutes-Live%20Education%20Platform-blue?style=for-the-badge&logo=github)](https://github.com/Parth-K-15/MBBSRoutes)
+  [![ARTIMAS-26](https://img.shields.io/badge/ARTIMAS--26-Techfest%20Website-orange?style=for-the-badge&logo=github)](https://github.com/Parth-K-15/ARTIMAS-26)
   
 </div>
 
@@ -223,12 +220,4 @@ const currentGoals = {
 
 **Thanks for visiting my profile! Feel free to reach out for collaborations or just a chat about tech! 🚀**
 
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Parth-K-15/Parth-K-15/output/snake.svg)
-  
 </div>
