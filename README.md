@@ -10,6 +10,7 @@ Building production systems that serve real users — from GenAI pipelines to sc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-Parth--K--15-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parth-K-15)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Parth-K-15)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/parthkat6b6c)
 
 </div>
 
@@ -23,7 +24,7 @@ My work sits at the intersection of **full-stack engineering** and **applied AI*
 
 - 🔭 Currently a **Web Developer Intern @ Toppers Club**, shipping production UI and payment infrastructure on AWS
 - 🧠 Focused on GenAI applications — RAG, LLM orchestration, and fine-tuned NLP models
-- 🏗️ Built and deployed platforms serving **32,000+ users** in production
+- 🏗️ Actively handling production infrastructure serving **32,000+ users** across live platforms
 - 🌱 Deepening my grasp of system design and scalable backend architecture
 - 💬 Ask me about MERN development, REST API design, AWS deployments, or LLM-powered app architecture
 
@@ -32,7 +33,7 @@ My work sits at the intersection of **full-stack engineering** and **applied AI*
 ## Experience
 
 **Web Developer Intern — Toppers Club** · *Jan 2026 – Mar 2026*
-Redesigned and redeployed production UI on AWS S3 + CloudFront, improving visual consistency across breakpoints for 25,000+ active users. Shipped an end-to-end PayU payment gateway integration, including webhook and hash verification, for the platform's subscription product.
+Redesigned and redeployed production UI on AWS S3 + CloudFront, improving visual consistency across breakpoints for 32,000+ active users. Shipped an end-to-end PayU payment gateway integration, including webhook and hash verification, for the platform's subscription product.
 
 **Web Developer Intern — Nirvista Group of Companies** · *Oct 2025 – Dec 2025*
 Built responsive React.js UI modules for core platform features and optimized component re-renders and asset delivery. Integrated 5+ REST API endpoints for authentication and data flow, coordinating with the backend team on API contracts.
@@ -42,7 +43,7 @@ Built responsive React.js UI modules for core platform features and optimized co
 ## Featured Projects
 
 ### 🎓 Education Consultancy Platform — [FreeCollegePredictor](https://freecollegepredictor.com) · [ToppersClubs](https://toppersclubs.com) · [MBBSRoutes](https://mbbsroutes.com)
-Production MERN platform serving **26,000+ users**, with a CatBoost-based JEE/NEET college prediction engine, 4-tier RBAC (SuperAdmin/Admin/Influencer/Calling Team), and OTP authentication via AWS SNS. Deployed on AWS EC2, S3, and CloudFront with PayU payment tracking and a referral attribution system.
+Production MERN platform serving **32,000+ users**, with a CatBoost-based JEE/NEET college prediction engine, 4-tier RBAC (SuperAdmin/Admin/Influencer/Calling Team), and OTP authentication via AWS SNS. Deployed on AWS EC2, S3, and CloudFront with PayU payment tracking and a referral attribution system.
 `MERN` `AWS` `CatBoost` `REST APIs`
 
 ### 🤖 GenAI-Powered HR Analytics & Workforce Intelligence Platform
@@ -118,7 +119,7 @@ End-to-end NLP pipeline on 801 Flipkart reviews: scraping, deduplication, transl
 
 </div>
 
-**LeetCode / GFG:** 140+ problems solved · **HackerRank:** 5-star · **GitHub:** 1,000+ commits across AI/ML, backend, and full-stack projects
+**LeetCode / [GFG](https://www.geeksforgeeks.org/profile/parthkat6b6c):** 140+ problems solved · **HackerRank:** 5-star · **GitHub:** 1,000+ commits across AI/ML, backend, and full-stack projects
 
 ---
 
